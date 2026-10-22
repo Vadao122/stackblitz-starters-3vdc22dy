@@ -115,14 +115,6 @@ export default class ItemController {
 
 
 
-  #hasCorrectItemData({
-    name,
-    properties,
-    status,
-    location_id,
-    curent_location_id,
-    category_id,
-  })
 
 
   #throwUncorrectedDataError(ctx){
